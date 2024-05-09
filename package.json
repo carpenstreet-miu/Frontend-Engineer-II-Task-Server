@@ -1,0 +1,12 @@
+{
+  "name": "task",
+  "version": "1.0.0",
+  "description": "task",
+  "main": "main.js",
+  "scripts": {
+    "test": "test",
+    "server": "node main.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
